@@ -6,7 +6,7 @@ I have been learning to code for 3 years
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [favourapps17@gmail.com](mailto:favourapps17@gmail.com)
 * 🚀  I'm currently working on [Orbstark](http://Orbstark.com)
-* 🧠  I'm learning Javascript
+* 🧠  I'm learning React
 * 🤝  I'm open to collaborating on Open source projects
 
 <a href="https://www.twitter.com/favourdev" target="_blank" rel="noreferrer"><img

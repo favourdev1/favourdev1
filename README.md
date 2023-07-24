@@ -39,7 +39,6 @@ src="https://img.shields.io/github/followers/favourdev1?logo=github&style=for-th
 
 <a href="http://www.github.com/favourdev1"><img src="https://github-readme-stats.vercel.app/api?username=favourdev1&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="favourdev1's GitHub stats" /></a>
 
-<a href="http://www.github.com/favourdev1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=favourdev1&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Favourdev1&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 

@@ -13,7 +13,7 @@ I have been coding for 4 years
 src="https://img.shields.io/twitter/follow/favourdev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/favourdev1" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/favourdev1?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31quvouvrg52ydh22wadshx7debq&count={count})
 ### Skills
 
 

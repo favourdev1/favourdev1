@@ -40,12 +40,20 @@ src="https://img.shields.io/github/followers/favourdev1?logo=github&style=for-th
 <a href="http://www.github.com/favourdev1"><img src="https://github-readme-stats.vercel.app/api?username=favourdev1&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="favourdev1's GitHub stats" /></a>
 
 
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Favourdev1&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 
 
 <a href="http://www.github.com/favourdev1"><img src="https://activity-graph.herokuapp.com/graph?username=favourdev1&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/favourdev1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=favourdev1&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/favourdev1" align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=favourdev1&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+</a>
+
+
+### Coding time
+<img src="https://wakatime.com/share/@bf20327b-88e9-492b-87c9-b10376edcd5c/4a403ffb-23a1-43d7-8686-a61d9c2b8bcb.svg" height="300" width="700"/>
 
 ### Support Me
 
